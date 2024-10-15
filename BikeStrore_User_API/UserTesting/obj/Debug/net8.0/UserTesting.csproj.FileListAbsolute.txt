@@ -1,0 +1,6 @@
+C:\Sprint Project\BikeStrore_API\UserTesting\bin\Debug\net8.0\CoverletSourceRootsMapping_UserTesting
+C:\Sprint Project\BikeStrore_API\UserTesting\obj\Debug\net8.0\UserTesting.csproj.AssemblyReference.cache
+C:\Sprint Project\BikeStrore_API\UserTesting\obj\Debug\net8.0\UserTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sprint Project\BikeStrore_API\UserTesting\obj\Debug\net8.0\UserTesting.AssemblyInfoInputs.cache
+C:\Sprint Project\BikeStrore_API\UserTesting\obj\Debug\net8.0\UserTesting.AssemblyInfo.cs
+C:\Sprint Project\BikeStrore_API\UserTesting\obj\Debug\net8.0\UserTesting.csproj.CoreCompileInputs.cache
